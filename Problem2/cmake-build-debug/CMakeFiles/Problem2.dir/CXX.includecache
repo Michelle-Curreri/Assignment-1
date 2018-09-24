@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Michelle Curreri/CLionProjects/Problem2/ArbitraryQueueArray.cpp
+ArbitraryQueueArray.h
+C:/Users/Michelle Curreri/CLionProjects/Problem2/ArbitraryQueueArray.h
+
+C:/Users/Michelle Curreri/CLionProjects/Problem2/ArbitraryQueueArray.h
+iostream
+-
+algorithm
+-
+string
+-
+array
+-
+
+C:/Users/Michelle Curreri/CLionProjects/Problem2/main.cpp
+iostream
+-
+ArbitraryQueueArray.h
+C:/Users/Michelle Curreri/CLionProjects/Problem2/ArbitraryQueueArray.h
+
