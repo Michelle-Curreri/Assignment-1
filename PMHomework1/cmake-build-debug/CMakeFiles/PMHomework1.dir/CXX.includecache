@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Michelle Curreri/CLionProjects/PMHomework1/ArbitraryQueue.cpp
+ArbitraryQueue.h
+C:/Users/Michelle Curreri/CLionProjects/PMHomework1/ArbitraryQueue.h
+
+C:/Users/Michelle Curreri/CLionProjects/PMHomework1/ArbitraryQueue.h
+iostream
+-
+algorithm
+-
+string
+-
+Node.h
+C:/Users/Michelle Curreri/CLionProjects/PMHomework1/Node.h
+
+C:/Users/Michelle Curreri/CLionProjects/PMHomework1/Node.h
+iostream
+-
+
+C:/Users/Michelle Curreri/CLionProjects/PMHomework1/main.cpp
+iostream
+-
+ArbitraryQueue.h
+C:/Users/Michelle Curreri/CLionProjects/PMHomework1/ArbitraryQueue.h
+string
+-
+

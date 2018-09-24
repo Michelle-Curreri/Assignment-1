@@ -1,0 +1,3 @@
+C:/Users/Michelle Curreri/CLionProjects/PMHomework1/cmake-build-debug/CMakeFiles/PMHomework1.dir
+C:/Users/Michelle Curreri/CLionProjects/PMHomework1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Michelle Curreri/CLionProjects/PMHomework1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
