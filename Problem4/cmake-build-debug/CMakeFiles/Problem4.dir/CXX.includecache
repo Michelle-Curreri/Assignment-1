@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Michelle Curreri/CLionProjects/Problem4/Prime.h
+
+C:/Users/Michelle Curreri/CLionProjects/Problem4/main.cpp
+iostream
+-
+stdio.h
+-
+Prime.h
+C:/Users/Michelle Curreri/CLionProjects/Problem4/Prime.h
+
