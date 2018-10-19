@@ -1,0 +1,19 @@
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Michelle Curreri/CLionProjects/Problem3/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe" "cmTC_4291a/fast"
+C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_4291a.dir\build.make CMakeFiles/cmTC_4291a.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Michelle Curreri/CLionProjects/Problem3/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4291a.dir/CMakeCXXCompilerABI.cpp.obj
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE     -o CMakeFiles\cmTC_4291a.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\JetBrains\CLion 2017.3.2\bin\cmake\share\cmake-3.9\Modules\CMakeCXXCompilerABI.cpp"
+Linking CXX executable cmTC_4291a.exe
+"C:\Program Files\JetBrains\CLion 2017.3.2\bin\cmake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_4291a.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2017.3.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_4291a.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\cmTC_4291a.dir/objects.a @CMakeFiles\cmTC_4291a.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\ar.exe: unable to rename 'CMakeFiles\cmTC_4291a.dir/objects.a'; reason: File exists
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_4291a.dir\build.make:98: cmTC_4291a.exe] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Michelle Curreri/CLionProjects/Problem3/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:125: cmTC_4291a/fast] Error 2
+
+
+
